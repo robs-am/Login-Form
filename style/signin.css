@@ -1,5 +1,5 @@
 body {
-  background-image: url("./bgPurple.jpg");
+  background: linear-gradient(to bottom, #4b6cb7, #182848);
 
   font-family: "Inconsolata", sans-serif;
   font-size: 18px;
