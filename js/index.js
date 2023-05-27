@@ -1,1 +1,2 @@
-const loginForm = document.querySelector("#login-form");
+const loginForm = document.querySelector(".login-option-wrapper");
+console.log(loginForm);
